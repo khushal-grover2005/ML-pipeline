@@ -11,8 +11,7 @@ env/
 venv/
 .venv/
 
-# Model files (optional - if you don't want to commit large model files)
-artifacts_backup/*.pt
+
 
 # IDE
 .vscode/
